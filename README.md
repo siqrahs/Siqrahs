@@ -14,7 +14,6 @@ Passionate about understanding Android underneath the surface—exploring system
 ### 🚀 Core Focus
 - **Mobile Engineering:** Developing Android applications using Kotlin and Java with a clean and structured codebase.
 - **System Internals & Tinkering:** Modding APKs, bytecode exploration, Xposed/LSPatch framework hooking, and runtime injection.
-- **Development Environment:** Coding, compiling, and managing projects directly on mobile using Termux, AndroidIDE, and CLI tools.
 
 ---
 
